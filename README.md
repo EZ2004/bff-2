@@ -4,7 +4,7 @@ $ pkg install python2 <br>
 $ pkg install git <br>
 $ git clone https://github.com/Mark-Zuck/bff-2 <br>
 $ cd bff-2 <br>
-$ pip2 install -r requirements.txt<br>
+$ pip2 install -r requirements<br>
 $ python2 bff-2.py<br>
 #
 #### Info Menu :<br>
